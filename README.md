@@ -1,4 +1,4 @@
-
+import random
 
 # Define elements and their strengths
 elements = {
